@@ -1,0 +1,9 @@
+psycopg2-binary
+sqlalchemy
+tqdm
+pandas
+sentence-transformers
+langchain_postgres
+langchain
+psycopg
+pandas
